@@ -1,6 +1,6 @@
 # Thakshak Chintakrindi
 
-**Computer science student at the University of Portsmouth · Software developer intern at Educafe · London, UK**
+**Computer science student at the University of Portsmouth · London, UK**
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thakshak-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="thakshak-cmd" /></p>
 
@@ -24,7 +24,6 @@ actually work. Everything below links to the repository and the number it reache
 
 ### Currently
 
-- 🔭 Shipping Educafe's Community App to live users on iOS and Android — integrations, push notifications, real-time feeds, and a test harness at 90%+ coverage
 - 🌱 Deepening PyTorch, and learning where reinforcement learning stops being the right tool
 - 🎮 Building the Dream Chronicles vertical slice in Godot, evenings and weekends
 - 📷 Shooting street and travel work around Singapore
