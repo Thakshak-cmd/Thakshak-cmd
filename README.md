@@ -4,9 +4,8 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thakshak-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="thakshak-cmd" /></p>
 
-I build machine learning systems that learn from scratch — and ship the products around them.
-Most of what's here is about getting something to work out a problem nobody told it the answer to,
-then proving it actually did.
+Self-play game engines, RL agents, graph networks — and the test harnesses that say whether they
+actually work. Everything below links to the repository and the number it reached.
 
 ---
 
